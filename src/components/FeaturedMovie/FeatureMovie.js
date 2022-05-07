@@ -1,13 +1,11 @@
 import React from 'react';
 
-import PropTypes from 'prop-types';
-
 import { BsFillPlayFill } from 'react-icons/bs';
 
 import './FeatureMovie.css';
 
 // eslint-disable-next-line
-export default ({item}) => {
+export default ({ item }) => {
   const firtDate = new Date(item.first_air_date); // convertendo a data da API para uma data mais legivel
 
   const genres = [];
