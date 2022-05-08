@@ -1,17 +1,31 @@
 # Netflix UI Clone
+
 <img src="./public/Interface.gif" />
 
-## How install 
-```git clone git@github.com:Leonardo404-code/Netflix-clone.git```
+This is a clone based in UI home of netflix
 
-## Install the dependencies
+## How works
 
-```yarn``` or ```npm install```
+```jsx
+git clone https://github.com/Leonardo404-code/Netflix-clone.git
+```
 
-## Using 
+Install all Dependencies
 
-```npm start``` or ```yarn start```
+```jsx
+npm install
+// or
+yarn install
+```
 
-## About
+Start application
+
+```jsx
+npm start
+// or
+yarn start
+```
+
+### About
 
 All information about the films was taken from the website API: https://www.themoviedb.org/
